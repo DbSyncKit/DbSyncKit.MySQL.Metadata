@@ -1,0 +1,1 @@
+# DbSyncKit.MySQL.Metadata
